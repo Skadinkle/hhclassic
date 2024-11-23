@@ -19,13 +19,13 @@ a:hover {
 	text-decoration: none;
 }
 .loggedin_whitetext {
-	font-family:  Arial;
+	font-family: Arial;
 	font-size: 10pt;
 	font-weight: normal;
 	color: white;
 }
 .loggedin_whitetextbold {
-	font-family:  Arial;
+	font-family: Arial;
 	font-size: 10pt;
 	font-weight: bold;
 	color: white;
@@ -187,20 +187,20 @@ a:hover {
 	text-decoration: none;
 }
 .postInfo {
-	  font-size: 8pt;
-	  color: #4c5051;
-	  font-style: italic;
-	  font-family: Verdana;
-	  font-weight: bold;
+	font-size: 8pt;
+	color: #4c5051;
+	font-style: italic;
+	font-family: Verdana;
+	font-weight: bold;
 }
 .readMoreLink {
-	  font-family: Verdana;
-	  color: #16629b;
-	  font-size: 10px;
-	  text-decoration: none;
-	  font-weight: bold;
-	  padding: 6px;
-	  float: right;
+	font-family: Verdana;
+	color: #16629b;
+	font-size: 10px;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 6px;
+	float: right;
 }
 .newscomponent_header {
 	font-size: 16pt;
@@ -552,14 +552,14 @@ a:hover {
 .mainlink {
 	font-weight: normal;
 	font-size: 12pt;
-	color:  #16629b;
+	color: #16629b;
 	font-family: Arial;
 	text-decoration: none;
 }
 .smalllink {
 	font-weight: normal;
 	font-size: 9pt;
-	color:  #16629b;
+	color: #16629b;
 	font-family: Arial;
 	text-decoration: none;
 }

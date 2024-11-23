@@ -1,9 +1,9 @@
 ﻿body {
-	background-image: url('./sysimages/bodyBGint.jpg');
+	background-image: url("./sysimages/bodyBGint.jpg");
 }
 .HeaderDiv {
 	height: 188px;
-	background-image: url('./sysimages/headerBGint.png');
+	background-image: url("./sysimages/headerBGint.png");
 }
 .logo {
 	margin: 42px 0 0 18px;
@@ -44,5 +44,5 @@
 	border: 1px solid #feba01;
 }
 .modalWindowOff {
-  display: none;
+	display: none;
 }
